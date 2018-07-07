@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Character Count</string>
+    <string name="user_string">Enter a string to count</string>
+    <string name="button_send">count</string>
+</resources>
